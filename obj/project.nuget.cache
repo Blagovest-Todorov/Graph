@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRLTPcrPTRpSXDQLrW9WH4pv77V7cUpSZDePXiy1VDhny0phY6zKgGMCALRwlwOlna8+m9QvjaXlQ1fydh3k/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bla\\source\\repos\\01.LinqTuition\\24.Graph\\24.Graph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
